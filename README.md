@@ -1,16 +1,17 @@
-### Hi there 👋
+## It's me.
 
-<!--
-**Orofil/orofil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__Some of my stuff on [Neocities](https://agnizab.neocities.org/).__
 
-Here are some ideas to get you started:
+These stats aren't much but it's a cool card though.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orofil)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=synthwave)
+
+<details>
+  <summary>Other stats</summary>
+  
+  ### Wakatime
+  _(which I just started using so there's not much there yet)_
+
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=orofil)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave)
+  
+</details>
