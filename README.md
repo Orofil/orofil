@@ -10,7 +10,6 @@ These stats aren't much but it's a cool card though.
   <summary>Other stats</summary>
   
   ### Wakatime
-  _(which I just started using so there's not much there yet)_
 
   [![Orofil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=orofil&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
   
