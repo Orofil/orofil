@@ -1,3 +1,5 @@
+![](pixel_grid_2.png)
+
 ## Orofil
 
 - Software Developer
@@ -25,7 +27,7 @@ Accessibility and sustainable development are very important to me, both in code
 
 See the [repositories](https://github.com/Orofil?tab=repositories) tab for more of my projects.
 
-![](pixel_grid.png)
+![](pixel_grid_1.png)
 
 <details>
   <summary>More...</summary>
