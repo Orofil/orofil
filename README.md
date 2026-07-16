@@ -40,6 +40,6 @@ See the [repositories](https://github.com/Orofil?tab=repositories) tab for more 
 
   Doesn't include all coding.
 
-  [![Orofil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=orofil&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+  [![Orofil's wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=orofil&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
